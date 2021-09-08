@@ -15,6 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![ChanWahFung's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChanWahFung&show_icons=true&include_all_commits=ture&hide=contribs,prs)](https://github.com/ChanWahFung/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChanWahFung&layout=compact)](https://github.com/ChanWahFung/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ChanWahFung&repo=nuxt-juejin-project&show_owner=true)](https://github.com/ChanWahFung/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChanWahFung&layout=compact)](https://github.com/ChanWahFung/github-readme-stats)
